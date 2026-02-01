@@ -106,7 +106,7 @@ Expected 2026 · CGPA: **8.18 / 10**
 
 * 💼 LinkedIn: [https://www.linkedin.com/in/nikhil-george-mathew](https://www.linkedin.com/in/nikhil-george-mathew)
 * 💻 GitHub: [https://github.com/nickgeorgemathew](https://github.com/nickgeorgemathew)
-* 📧 Email: [nikhilgmathew@gmail.com](mailto:nikhilgmathew@gmail.com)
+* 📧 Email: [nikhilgmathew@gmail.com](mailto:nickgeorgemathew@gmail.com)
 
 ---
 
