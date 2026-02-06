@@ -5,7 +5,7 @@ I build end-to-end ML systems that explain user behavior, improve conversion, an
 
 ---
 
-## ⚡ Recruiter Snapshot
+## ⚡ Snapshot
 
 * 🎓 Computer Science undergraduate (CGPA: 8.18/10)
 * 📊 Strong in **data analysis, feature engineering & ML modeling**
