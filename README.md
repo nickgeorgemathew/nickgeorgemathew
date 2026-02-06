@@ -60,7 +60,7 @@ I build end-to-end ML systems that explain user behavior, improve conversion, an
 ### 🔹 Customer Booking Completion Analysis (ML + SHAP)
 
 **Python · Pandas · XGBoost · SHAP · Plotly**
-🔗 [https://github.com/nickgeorgemathew/booking-analysis](https://github.com/nickgeorgemathew/booking-analysis)
+🔗 [https://github.com/nickgeorgemathew/booking-analysis](https://github.com/nickgeorgemathew/booking_analysis)
 
 **Problem:** Users were dropping during the booking flow with unclear drivers.
 
