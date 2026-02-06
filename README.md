@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nikhil George Mathew
 
-**Data Science & Machine Learning Intern | CS Undergrad (2026)**
+**Data Science & Machine Learning  | CS Undergrad (2026)**
 I build end-to-end ML systems that explain user behavior, improve conversion, and support product decisions.
 
 ---
